@@ -26,7 +26,7 @@ Hey, I am a Daniil, a problem solver who is eager to grow as a software engineer
   </div>
   <div style="flex: 1;">
     <h4>Frontend</h4>
-    <div style="display: flex; gap: 10px;">
+    <div style="display: flex; flex-direction: row; gap: 10px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
       <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
@@ -37,7 +37,7 @@ Hey, I am a Daniil, a problem solver who is eager to grow as a software engineer
     </div>
   </div>
 </div>
-<div style="display: flex; gap: 12px;">
+<div style="display: flex; flex-direction: row; gap: 12px;">
   <div style="flex: 1;">
     <h4>Mobile</h4>
     <div style="display: flex; gap: 10px;">
@@ -52,9 +52,9 @@ Hey, I am a Daniil, a problem solver who is eager to grow as a software engineer
   </div>
 </div>
 
--
+#
 
-<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 12px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=picunada&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=transparent&border_radius=16" alt="picunada" />
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=picunada&theme=transparent&border_radius=16&background=EBEBEB00" alt="picunada" />
 </div>
