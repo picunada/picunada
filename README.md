@@ -11,7 +11,9 @@ Hey, I am a Daniil, a problem solver who is eager to grow as a software engineer
 ---
 
 ### Tools that I use
+
 <div style="display: flex; gap: 12px;">
+
   <div style="flex: 1;">
     <h4>Backend</h4>
     <div style="display: flex; gap: 10px;">
@@ -24,6 +26,7 @@ Hey, I am a Daniil, a problem solver who is eager to grow as a software engineer
       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
     </div>
   </div>
+
   <div style="flex: 1;">
     <h4>Frontend</h4>
     <div style="display: flex; flex-direction: row; gap: 10px;">
@@ -36,7 +39,9 @@ Hey, I am a Daniil, a problem solver who is eager to grow as a software engineer
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
     </div>
   </div>
+  
 </div>
+
 <div style="display: flex; flex-direction: row; gap: 12px;">
   <div style="flex: 1;">
     <h4>Mobile</h4>
