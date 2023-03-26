@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Picunada's GitHub stats](https://github-readme-stats.vercel.app/api?username=picunada&count_private=true&hide=issues,prs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=picunada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=picunada&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
