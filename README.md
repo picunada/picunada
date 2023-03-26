@@ -5,7 +5,8 @@
 </div>
 
 
-```A passionate software engineer```
+**```A passionate software engineer```**
+
 Hey, I am a Daniil, a problem solver who is eager to grow as a software engineer in an emerging company. I am passionate about software development and motivated to advance and expand my skill set through mentorship and challenging projects. My goal is to work with a team of talented professionals where I can contribute my skills and learn from my colleagues.
 
 ## Tools that I use
